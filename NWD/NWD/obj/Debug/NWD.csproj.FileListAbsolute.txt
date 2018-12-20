@@ -1,0 +1,6 @@
+C:\Users\SiekerA\Documents\SPOJ_Projects\NWD\NWD\bin\Debug\NWD.exe.config
+C:\Users\SiekerA\Documents\SPOJ_Projects\NWD\NWD\bin\Debug\NWD.exe
+C:\Users\SiekerA\Documents\SPOJ_Projects\NWD\NWD\bin\Debug\NWD.pdb
+C:\Users\SiekerA\Documents\SPOJ_Projects\NWD\NWD\obj\Debug\NWD.csprojResolveAssemblyReference.cache
+C:\Users\SiekerA\Documents\SPOJ_Projects\NWD\NWD\obj\Debug\NWD.exe
+C:\Users\SiekerA\Documents\SPOJ_Projects\NWD\NWD\obj\Debug\NWD.pdb

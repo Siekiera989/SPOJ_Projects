@@ -1,0 +1,6 @@
+C:\Users\SiekerA\Documents\SPOJ_Projects\silnia_v2\silnia_v2\bin\Debug\silnia_v2.exe.config
+C:\Users\SiekerA\Documents\SPOJ_Projects\silnia_v2\silnia_v2\bin\Debug\silnia_v2.exe
+C:\Users\SiekerA\Documents\SPOJ_Projects\silnia_v2\silnia_v2\bin\Debug\silnia_v2.pdb
+C:\Users\SiekerA\Documents\SPOJ_Projects\silnia_v2\silnia_v2\obj\Debug\silnia_v2.csprojResolveAssemblyReference.cache
+C:\Users\SiekerA\Documents\SPOJ_Projects\silnia_v2\silnia_v2\obj\Debug\silnia_v2.exe
+C:\Users\SiekerA\Documents\SPOJ_Projects\silnia_v2\silnia_v2\obj\Debug\silnia_v2.pdb

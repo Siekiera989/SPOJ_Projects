@@ -1,0 +1,6 @@
+C:\Users\SiekerA\Documents\SPOJ_Projects\proste dodawanie\proste dodawanie\obj\Debug\proste dodawanie.csprojResolveAssemblyReference.cache
+C:\Users\SiekerA\Documents\SPOJ_Projects\proste dodawanie\proste dodawanie\bin\Debug\proste dodawanie.exe.config
+C:\Users\SiekerA\Documents\SPOJ_Projects\proste dodawanie\proste dodawanie\bin\Debug\proste dodawanie.exe
+C:\Users\SiekerA\Documents\SPOJ_Projects\proste dodawanie\proste dodawanie\bin\Debug\proste dodawanie.pdb
+C:\Users\SiekerA\Documents\SPOJ_Projects\proste dodawanie\proste dodawanie\obj\Debug\proste dodawanie.exe
+C:\Users\SiekerA\Documents\SPOJ_Projects\proste dodawanie\proste dodawanie\obj\Debug\proste dodawanie.pdb

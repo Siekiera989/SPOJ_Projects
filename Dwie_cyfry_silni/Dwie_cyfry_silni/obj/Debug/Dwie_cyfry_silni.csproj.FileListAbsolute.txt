@@ -1,0 +1,6 @@
+C:\Users\SiekerA\Documents\SPOJ_Projects\Dwie_cyfry_silni\Dwie_cyfry_silni\obj\Debug\Dwie_cyfry_silni.csprojResolveAssemblyReference.cache
+C:\Users\SiekerA\Documents\SPOJ_Projects\Dwie_cyfry_silni\Dwie_cyfry_silni\bin\Debug\Dwie_cyfry_silni.exe.config
+C:\Users\SiekerA\Documents\SPOJ_Projects\Dwie_cyfry_silni\Dwie_cyfry_silni\bin\Debug\Dwie_cyfry_silni.exe
+C:\Users\SiekerA\Documents\SPOJ_Projects\Dwie_cyfry_silni\Dwie_cyfry_silni\bin\Debug\Dwie_cyfry_silni.pdb
+C:\Users\SiekerA\Documents\SPOJ_Projects\Dwie_cyfry_silni\Dwie_cyfry_silni\obj\Debug\Dwie_cyfry_silni.exe
+C:\Users\SiekerA\Documents\SPOJ_Projects\Dwie_cyfry_silni\Dwie_cyfry_silni\obj\Debug\Dwie_cyfry_silni.pdb

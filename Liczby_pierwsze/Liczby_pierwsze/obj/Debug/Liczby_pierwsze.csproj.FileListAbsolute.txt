@@ -1,0 +1,6 @@
+C:\Users\SiekerA\Documents\SPOJ_Projects\Liczby_pierwsze\Liczby_pierwsze\bin\Debug\Liczby_pierwsze.exe.config
+C:\Users\SiekerA\Documents\SPOJ_Projects\Liczby_pierwsze\Liczby_pierwsze\bin\Debug\Liczby_pierwsze.exe
+C:\Users\SiekerA\Documents\SPOJ_Projects\Liczby_pierwsze\Liczby_pierwsze\bin\Debug\Liczby_pierwsze.pdb
+C:\Users\SiekerA\Documents\SPOJ_Projects\Liczby_pierwsze\Liczby_pierwsze\obj\Debug\Liczby_pierwsze.csprojResolveAssemblyReference.cache
+C:\Users\SiekerA\Documents\SPOJ_Projects\Liczby_pierwsze\Liczby_pierwsze\obj\Debug\Liczby_pierwsze.exe
+C:\Users\SiekerA\Documents\SPOJ_Projects\Liczby_pierwsze\Liczby_pierwsze\obj\Debug\Liczby_pierwsze.pdb
