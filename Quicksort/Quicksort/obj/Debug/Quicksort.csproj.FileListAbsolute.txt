@@ -1,0 +1,6 @@
+C:\Users\SiekerA\Documents\SharpDevelop Projects\Quicksort\Quicksort\bin\Debug\Quicksort.exe.config
+C:\Users\SiekerA\Documents\SharpDevelop Projects\Quicksort\Quicksort\bin\Debug\Quicksort.exe
+C:\Users\SiekerA\Documents\SharpDevelop Projects\Quicksort\Quicksort\bin\Debug\Quicksort.pdb
+C:\Users\SiekerA\Documents\SharpDevelop Projects\Quicksort\Quicksort\obj\Debug\Quicksort.csprojResolveAssemblyReference.cache
+C:\Users\SiekerA\Documents\SharpDevelop Projects\Quicksort\Quicksort\obj\Debug\Quicksort.exe
+C:\Users\SiekerA\Documents\SharpDevelop Projects\Quicksort\Quicksort\obj\Debug\Quicksort.pdb

@@ -1,0 +1,6 @@
+C:\Users\siekera\Documents\SharpDevelop Projects\Wyrazenia_Lambda\bin\Debug\Wyrazenia_Lambda.exe.config
+C:\Users\siekera\Documents\SharpDevelop Projects\Wyrazenia_Lambda\bin\Debug\Wyrazenia_Lambda.exe
+C:\Users\siekera\Documents\SharpDevelop Projects\Wyrazenia_Lambda\bin\Debug\Wyrazenia_Lambda.pdb
+C:\Users\siekera\Documents\SharpDevelop Projects\Wyrazenia_Lambda\obj\Debug\Wyrazenia_Lambda.csprojResolveAssemblyReference.cache
+C:\Users\siekera\Documents\SharpDevelop Projects\Wyrazenia_Lambda\obj\Debug\Wyrazenia_Lambda.exe
+C:\Users\siekera\Documents\SharpDevelop Projects\Wyrazenia_Lambda\obj\Debug\Wyrazenia_Lambda.pdb

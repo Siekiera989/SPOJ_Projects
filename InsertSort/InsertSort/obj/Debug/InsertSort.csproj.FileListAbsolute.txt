@@ -1,0 +1,6 @@
+C:\Users\SiekerA\Documents\SharpDevelop Projects\InsertSort\InsertSort\bin\Debug\InsertSort.exe.config
+C:\Users\SiekerA\Documents\SharpDevelop Projects\InsertSort\InsertSort\bin\Debug\InsertSort.exe
+C:\Users\SiekerA\Documents\SharpDevelop Projects\InsertSort\InsertSort\bin\Debug\InsertSort.pdb
+C:\Users\SiekerA\Documents\SharpDevelop Projects\InsertSort\InsertSort\obj\Debug\InsertSort.csprojResolveAssemblyReference.cache
+C:\Users\SiekerA\Documents\SharpDevelop Projects\InsertSort\InsertSort\obj\Debug\InsertSort.exe
+C:\Users\SiekerA\Documents\SharpDevelop Projects\InsertSort\InsertSort\obj\Debug\InsertSort.pdb

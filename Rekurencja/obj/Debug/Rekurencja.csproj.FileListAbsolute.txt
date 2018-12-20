@@ -1,0 +1,6 @@
+C:\Users\siekera\Documents\SharpDevelop Projects\Rekurencja\obj\Debug\Rekurencja.csprojResolveAssemblyReference.cache
+C:\Users\siekera\Documents\SharpDevelop Projects\Rekurencja\bin\Debug\Rekurencja.exe.config
+C:\Users\siekera\Documents\SharpDevelop Projects\Rekurencja\bin\Debug\Rekurencja.exe
+C:\Users\siekera\Documents\SharpDevelop Projects\Rekurencja\bin\Debug\Rekurencja.pdb
+C:\Users\siekera\Documents\SharpDevelop Projects\Rekurencja\obj\Debug\Rekurencja.exe
+C:\Users\siekera\Documents\SharpDevelop Projects\Rekurencja\obj\Debug\Rekurencja.pdb

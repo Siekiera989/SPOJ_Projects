@@ -1,0 +1,6 @@
+C:\Users\siekera\Documents\SharpDevelop Projects\Flamaster\Flamaster\obj\Debug\Flamaster.csprojResolveAssemblyReference.cache
+C:\Users\siekera\Documents\SharpDevelop Projects\Flamaster\Flamaster\bin\Debug\Flamaster.exe.config
+C:\Users\siekera\Documents\SharpDevelop Projects\Flamaster\Flamaster\bin\Debug\Flamaster.exe
+C:\Users\siekera\Documents\SharpDevelop Projects\Flamaster\Flamaster\bin\Debug\Flamaster.pdb
+C:\Users\siekera\Documents\SharpDevelop Projects\Flamaster\Flamaster\obj\Debug\Flamaster.exe
+C:\Users\siekera\Documents\SharpDevelop Projects\Flamaster\Flamaster\obj\Debug\Flamaster.pdb
